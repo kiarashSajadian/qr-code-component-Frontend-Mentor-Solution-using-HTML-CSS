@@ -33,5 +33,5 @@ Rather than complicating this with a framework, using HTML and CSS on their own 
 
 ## Author
 
-- GitHub - [valleyman89](https://github.com/KiarashSajadian)
-- Frontend Mentor - [@valleym89](https://www.frontendmentor.io/profile/valleyman89)
+- GitHub - [Kiarash Sajadian](https://github.com/KiarashSajadian)
+- Frontend Mentor - [Kiarash Sajadian](https://www.frontendmentor.io/profile/kiarashSajadian)
