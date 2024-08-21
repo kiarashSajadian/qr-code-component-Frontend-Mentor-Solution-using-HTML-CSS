@@ -146,8 +146,9 @@ figure {
 
 h1 {
   font-size: 23px;
-  font-weight: 400;
+  font-weight: 900;
   margin-bottom: 10px;
+  color: var(--clr-slate-900);
 }
 
 p {
